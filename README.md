@@ -1,6 +1,5 @@
  ### Hi, I'm <a href="https://clementpoueyto.github.io/">Clement</a> :wave:
 
-I'm a 3rd-year Computer Engineering Student and specialized in Software Architecture at [@Polytech Nice Sophia](https://polytech.univ-cotedazur.fr/) in France who is passionate about Software development.<br/>
 
 [![dev.to badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%A9ment-poueyto-743429180/)
 
